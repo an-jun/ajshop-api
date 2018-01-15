@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc://localhost/ajshop
+    username: root
+    password: 123456
